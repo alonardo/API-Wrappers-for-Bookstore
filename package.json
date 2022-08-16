@@ -1,0 +1,16 @@
+{
+  "name": "bookstoreapi",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "using apisauce to create bookstore api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andre lonardo",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^2.1.5",
+    "base-64": "^1.0.0"
+  }
+}
